@@ -1,0 +1,2109 @@
+fileFormatVersion: 2
+guid: aa5fe136eee1385499374d714f94bc51
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material
+    second: {fileID: 2100000, guid: fc201ceea002a764184187d72baaa4cc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.001
+    second: {fileID: 2100000, guid: 8a20562b14abd224d9e94805c56485e2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.002
+    second: {fileID: 2100000, guid: ee83773718f419649923af26a215ec2d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.003
+    second: {fileID: 2100000, guid: cf358a61a8b6df846b04d8fbbce31127, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.004
+    second: {fileID: 2100000, guid: 83b666c37463f1d4ea4bd2e89f50aeec, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.005
+    second: {fileID: 2100000, guid: 2a8c703e12f4a6947a4b901642897869, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.006
+    second: {fileID: 2100000, guid: c6ff38e4dad123747972b37a88f8cfdb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.007
+    second: {fileID: 2100000, guid: 7c347755d107de949b7a3e0b031c9406, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.008
+    second: {fileID: 2100000, guid: 93982a90234cf3447a55c27e5cac7fe2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.009
+    second: {fileID: 2100000, guid: 6f1d3f0047b3bc04b8146ae80499c640, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.010
+    second: {fileID: 2100000, guid: 20ff97b6d00ac6f4e9bcba46c90041b3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.011
+    second: {fileID: 2100000, guid: 29bcd45304e54be498c0a4ac55559e09, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.012
+    second: {fileID: 2100000, guid: 806951aa5d6b26745a6a59f7b12bf819, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.013
+    second: {fileID: 2100000, guid: 63c3d908766f9cd4f8f0be7a7db747f1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.014
+    second: {fileID: 2100000, guid: ae1ebd79ad3f5db4f81249adb5997971, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.015
+    second: {fileID: 2100000, guid: 1d618b5e2fc03cb409a70264bae6743a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.016
+    second: {fileID: 2100000, guid: 6e1760d0c819dfd4ea4b00abf2d9b6c5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.017
+    second: {fileID: 2100000, guid: b6a37ba71013bac4ebf48b9feec692db, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.018
+    second: {fileID: 2100000, guid: d0b48d3a1253ac24088fb1fbf563d9dd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.019
+    second: {fileID: 2100000, guid: b0228baf7fd6ed549b69384189d31f58, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.020
+    second: {fileID: 2100000, guid: a98b584bbc1548c48950fc9dd352aecc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.021
+    second: {fileID: 2100000, guid: 446a8975187b0c144b3427d50feadd4e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.022
+    second: {fileID: 2100000, guid: e09620d766ecd9e44acb11389c0c1ea5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.023
+    second: {fileID: 2100000, guid: c59e40e07d63c974eb327b2ca2d1a2f4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.024
+    second: {fileID: 2100000, guid: 64ce6e94b8b0fa449902097c491e5ab8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.025
+    second: {fileID: 2100000, guid: 7cec83a9bb510944482473fae82a157b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.026
+    second: {fileID: 2100000, guid: 954c0cd813e38284cb0c31b1264e81f9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.027
+    second: {fileID: 2100000, guid: a0be254de78552943b124a67a8597828, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.028
+    second: {fileID: 2100000, guid: 9af3e211af3a5c74d8b6d4d5b6a440e9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.029
+    second: {fileID: 2100000, guid: d587921b767477045911a30bae27fe00, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.030
+    second: {fileID: 2100000, guid: 0288ed8285ed829429571f3b2a4fe164, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.031
+    second: {fileID: 2100000, guid: 81afa307eebdb4d468fe0457b8bf064f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.032
+    second: {fileID: 2100000, guid: 49db4dfe9eaaf3f4ea52591a26426127, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.033
+    second: {fileID: 2100000, guid: 5394f27d0eea8ce48aa6864e1ba94e9c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.034
+    second: {fileID: 2100000, guid: f5da15fb3f72c1c4fb530622f32d4fe7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.035
+    second: {fileID: 2100000, guid: fcd298e3ed7ef204c9029bc4ed05c487, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.036
+    second: {fileID: 2100000, guid: 2abca21d211eb954ea95a4013138e327, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.037
+    second: {fileID: 2100000, guid: 9dc7b68f16d58ab43b0787d836bfb827, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.038
+    second: {fileID: 2100000, guid: 687e17c8507028741a04621d8bc7ca98, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.039
+    second: {fileID: 2100000, guid: a57dbaa2c0a7d4b429a2b632feaa9554, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.040
+    second: {fileID: 2100000, guid: c9bfd858f09caf346b589bab56f1b75c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.041
+    second: {fileID: 2100000, guid: 33224ced4deee3944b8c68a98dfbecd4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.042
+    second: {fileID: 2100000, guid: 0ea7ddfb2cd5ec44cb4588c3745e376c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.043
+    second: {fileID: 2100000, guid: cdfe9e8810c72ef4daf311dbf3f87c9d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.044
+    second: {fileID: 2100000, guid: 79547125603f11941bf3efa4da67d663, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.045
+    second: {fileID: 2100000, guid: 7926b961593ffe44d984fe6f20055094, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.046
+    second: {fileID: 2100000, guid: 95b9304dbd5d1c24b89a9f408991661c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.047
+    second: {fileID: 2100000, guid: 5f1adbf92e95e274f8085e9547483895, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.048
+    second: {fileID: 2100000, guid: a6d8119cf0bdcef4eb0c09c5d2040d33, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.049
+    second: {fileID: 2100000, guid: b16221ee68a5e74498dbb4d6499c2823, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.050
+    second: {fileID: 2100000, guid: 63ec1925d339ced4ba54e962c45ba4df, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.051
+    second: {fileID: 2100000, guid: 45226a842295c0f429d6b42071e46028, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.052
+    second: {fileID: 2100000, guid: 290f51b2ba3401d499858116039b5007, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.053
+    second: {fileID: 2100000, guid: 0ffa523085a95fb4db3fc582c32f343a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.054
+    second: {fileID: 2100000, guid: 599da69e060703540a2815074e0533ea, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.055
+    second: {fileID: 2100000, guid: ada2b853165c6464b907fa009baea8b3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.056
+    second: {fileID: 2100000, guid: a623041a179774d44afbbc2babc6057d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.057
+    second: {fileID: 2100000, guid: d1b4a1da58053694fb779ef96bf16e62, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.058
+    second: {fileID: 2100000, guid: 8e2b8efd47ef2854e899da45835ef0ea, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.059
+    second: {fileID: 2100000, guid: c76962f9795ddb44aa6d88085dbb3f39, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.060
+    second: {fileID: 2100000, guid: c0d8fc31686410647a06cd7e0a9081b0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.061
+    second: {fileID: 2100000, guid: a856a9f348782db45bedea5c3b2a5005, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.062
+    second: {fileID: 2100000, guid: e4b417c33d841fb4eb6d4c5b856be0a6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.063
+    second: {fileID: 2100000, guid: dd0e247cc5cb2fd4aaf2219fc0ac2142, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.064
+    second: {fileID: 2100000, guid: 91bed2f281c7a9241b4870362ae3cde8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.065
+    second: {fileID: 2100000, guid: 1036054b6b99c2346bf4d8f7c7118686, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.066
+    second: {fileID: 2100000, guid: cbaea38f7de6f064fbed5c29562b6fa9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.067
+    second: {fileID: 2100000, guid: 5e054049206c5ae47a130985e80ed383, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.068
+    second: {fileID: 2100000, guid: d7240307b631466459c56d9508d92e6e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.069
+    second: {fileID: 2100000, guid: 604c6e88b4d5d5244946f502655bc7f8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.070
+    second: {fileID: 2100000, guid: d993dc40aac59f845ade0f98968bf543, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.071
+    second: {fileID: 2100000, guid: f7b9e95bff1b336498100a8788e895a7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.072
+    second: {fileID: 2100000, guid: fabeb265a2f147b47acf968ee8923a91, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.073
+    second: {fileID: 2100000, guid: 8dc7accdc4a9b5343b5b5b8d5fce3458, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.074
+    second: {fileID: 2100000, guid: 04fef67845110a241baafa0ce9a59147, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.075
+    second: {fileID: 2100000, guid: 2095bb2f61bf01647af16c17c0c3f176, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.076
+    second: {fileID: 2100000, guid: 4a276f6c72e1b8942941629224bdcc1b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.077
+    second: {fileID: 2100000, guid: 9d1e00ab728b7744f8d397799f93e8af, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.078
+    second: {fileID: 2100000, guid: c1f052ceaea61e445a2f6071311674ef, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.079
+    second: {fileID: 2100000, guid: ce9b52769e7f1dd4cac5a4026cd0260e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.080
+    second: {fileID: 2100000, guid: b1ba4f75dd99d3f44865266c3b089ec0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.081
+    second: {fileID: 2100000, guid: 9e2ab35dff10da84286767e8384e9a5f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.082
+    second: {fileID: 2100000, guid: 0c9799392b3749e458c1c2c7d71eb261, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.083
+    second: {fileID: 2100000, guid: 5ef955d96c5a44a41ac2063e1747993e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.084
+    second: {fileID: 2100000, guid: c7023ce6062d19e4e8bb1594b8bcf590, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.085
+    second: {fileID: 2100000, guid: 9192e5d1b49f0894ba38388d390c553b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.086
+    second: {fileID: 2100000, guid: b589d85b7031b884ebd4a53417aece0a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.087
+    second: {fileID: 2100000, guid: d8dcbf8fa8e550d45942f4669864d32e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.088
+    second: {fileID: 2100000, guid: 91b0aeb4acc3b5344811dfaaea0bdc89, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.089
+    second: {fileID: 2100000, guid: 30ea25e112a82294691d87b96d11d9fc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.090
+    second: {fileID: 2100000, guid: 73a0a8efdaf43ca46b73c461e4c6183e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.091
+    second: {fileID: 2100000, guid: 2829be52d5c61ce4089eacb5121feff6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.092
+    second: {fileID: 2100000, guid: b5f2b2a38d8ae88438fdb438a6874ce2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.093
+    second: {fileID: 2100000, guid: 476c40dbe84e60447beba44dc1723efb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.094
+    second: {fileID: 2100000, guid: 8d3636f2b3483b84cae96e650a8c8f28, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.095
+    second: {fileID: 2100000, guid: a7cf27d0176a0f44d8269f879ef1bf7b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.096
+    second: {fileID: 2100000, guid: 8fa3b23781176b14cbea0b12e0255318, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.097
+    second: {fileID: 2100000, guid: 0acfb25f90ea82340998fe7c9e1a043e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.098
+    second: {fileID: 2100000, guid: 65e68a77a4fc4104088625786c44cb2d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.099
+    second: {fileID: 2100000, guid: 10c9ddb22757e434286667f34e0decca, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.100
+    second: {fileID: 2100000, guid: f2af269d63e3f3e488d2422cd10ec57e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.101
+    second: {fileID: 2100000, guid: d8e52e0810d3a8c419708ce21991502f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.102
+    second: {fileID: 2100000, guid: cd824a54afa9e3a45bf7d62a81a9f070, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.103
+    second: {fileID: 2100000, guid: b2c5c9211df0dd145b570c8e1b450a5a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.104
+    second: {fileID: 2100000, guid: 770f82795bd18df4ebc3c6ac09739382, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.105
+    second: {fileID: 2100000, guid: af6de6a4455d45448b3bfb6e51ce8783, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.106
+    second: {fileID: 2100000, guid: 0afe15de5f3170b4fb99626a9ee7605e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.107
+    second: {fileID: 2100000, guid: 45d72e5af1a21314aab912b65357ed38, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.108
+    second: {fileID: 2100000, guid: 45ee6d5b4c6cdf243adc5894662dd34b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.109
+    second: {fileID: 2100000, guid: a72a544ccddd6e8419a106d2d413aa21, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.110
+    second: {fileID: 2100000, guid: 01a37a8d834619d4f8609841e1d7a2b8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.111
+    second: {fileID: 2100000, guid: 339578cfd43597b4ca6e7d5b0f783b94, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.112
+    second: {fileID: 2100000, guid: 1cefd8fda17e57f4e91d4f5228b52f12, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.113
+    second: {fileID: 2100000, guid: 47452e295e1503b41a47c22ff5c14b65, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.114
+    second: {fileID: 2100000, guid: 07bebe895b4e7a54c9212353b5c5b0ca, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.115
+    second: {fileID: 2100000, guid: 2b0885042d6260c4d8533bcc87de190a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.116
+    second: {fileID: 2100000, guid: 552040f8ebc3c244986a16fa6945b916, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.117
+    second: {fileID: 2100000, guid: b3f7a8c9a4acf91458f7cacc2446ade1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.118
+    second: {fileID: 2100000, guid: 3f2de690ca395a6428fb6464fd9b24be, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.119
+    second: {fileID: 2100000, guid: 319af947a913b1f469a737dd9c970c9f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.120
+    second: {fileID: 2100000, guid: e32a41480656e0941bb8d02322efdf77, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.121
+    second: {fileID: 2100000, guid: a22a5b810ab6a7a449ea88f2657d9007, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.122
+    second: {fileID: 2100000, guid: c3ec43b4263cb6d488eca3c35785cf81, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.123
+    second: {fileID: 2100000, guid: d803211c08723d54fac4e23ea7ff9dc1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.124
+    second: {fileID: 2100000, guid: bfb671569855b88449355121df6ee778, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.125
+    second: {fileID: 2100000, guid: 8b31d60bbd1827b4892ddcbfd43a5bc5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.126
+    second: {fileID: 2100000, guid: 3e6e858610be88940b8d1a3c19c56ccf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.127
+    second: {fileID: 2100000, guid: 1425309e44f049446ad3f67dd99f1681, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.128
+    second: {fileID: 2100000, guid: 5b96b553845d1154285999fc9dfb6b57, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.129
+    second: {fileID: 2100000, guid: e4fbcda248b11e74a874e58b33d8b32e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.130
+    second: {fileID: 2100000, guid: e3f1c9e9432e8a745886900c7541c911, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.131
+    second: {fileID: 2100000, guid: 33e9c0099a085e04eb2a9f21db42d38e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.132
+    second: {fileID: 2100000, guid: d3d195516f20776439c2f9dc0aabed47, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.133
+    second: {fileID: 2100000, guid: 6e1df8c369952434faf61db5d1c98386, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.134
+    second: {fileID: 2100000, guid: cd291d258663dab4395d7fb00c28be06, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.135
+    second: {fileID: 2100000, guid: 89d50a37ad349824893ddcae1e989865, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.136
+    second: {fileID: 2100000, guid: f5c46a8d49870164f854b33cd9bba19c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.137
+    second: {fileID: 2100000, guid: ce7fb3df3f3a6164c97e17ff32c4830a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.138
+    second: {fileID: 2100000, guid: 6771af58f251b3c4f890267bdfd99b0c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.139
+    second: {fileID: 2100000, guid: 9df73492eea9d2141b4d55d139226973, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.140
+    second: {fileID: 2100000, guid: e217c6b670eb05743808daea1ec20da1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.141
+    second: {fileID: 2100000, guid: ee6b86b6e1f717e4eaad4e6c8ba17e82, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.142
+    second: {fileID: 2100000, guid: de655536c99f96e4f988b6e061066893, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.143
+    second: {fileID: 2100000, guid: fee49b19a0387594e8b569cde481a72c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.144
+    second: {fileID: 2100000, guid: 057b8399326bee345a54195cc620d253, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.145
+    second: {fileID: 2100000, guid: 0228e7a35b68d0345ad1259c4caea4ec, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.146
+    second: {fileID: 2100000, guid: 0bbdba9690049044b909ed5502baab6c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.147
+    second: {fileID: 2100000, guid: 3bffd6cbdc88e04478dd77e8c7a15953, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.148
+    second: {fileID: 2100000, guid: 14ea483c09b0c07409f71f3e482880ef, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.149
+    second: {fileID: 2100000, guid: 54f1f368ebdf02d4ebc0e20cdf37c2cc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.150
+    second: {fileID: 2100000, guid: 68df9d9bc08752940b14221466dde5b6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.151
+    second: {fileID: 2100000, guid: e005e456dcc2df742925d465281e6439, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.152
+    second: {fileID: 2100000, guid: e2fecbceae0bc0f4dad7c22ffd2df44a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.153
+    second: {fileID: 2100000, guid: d03724a32cd7dbe4f9750b6a2b14dafe, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.154
+    second: {fileID: 2100000, guid: e5e9f78ccdc248a4a88e9cb483645c99, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.155
+    second: {fileID: 2100000, guid: 89826832a41fe874cbfb90ebc53153a4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.156
+    second: {fileID: 2100000, guid: 6e4b865b10902bb4c874ec1d8c1fb97c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.157
+    second: {fileID: 2100000, guid: b970264bdd5ab6d479eddfbe9ed62979, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.158
+    second: {fileID: 2100000, guid: 414e950551ce5394bbd09ec393987d5a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.159
+    second: {fileID: 2100000, guid: 2864d0c9eeb7ff84b9dda424ec4a6b27, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.160
+    second: {fileID: 2100000, guid: 36bafec49468ab543a1a5c91a34f789a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.161
+    second: {fileID: 2100000, guid: d22de3cb185b1be4a8c32f1b11cd974e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.162
+    second: {fileID: 2100000, guid: 26008938ea1408b45954970c86207a3f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.163
+    second: {fileID: 2100000, guid: 9bc2b35dfb608d446b31c90c7737dd49, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.164
+    second: {fileID: 2100000, guid: 56d6c5606a3353f4fb3237cd401d1356, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.165
+    second: {fileID: 2100000, guid: a4c6144002626b74da6333b5612dcbc9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.166
+    second: {fileID: 2100000, guid: fb4092537f772d444b1fe5f10a7a1853, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.167
+    second: {fileID: 2100000, guid: 448539828b3b3c744947a9b04ee595f4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.168
+    second: {fileID: 2100000, guid: 1e93f6566e0ee7c48928585a70289037, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.169
+    second: {fileID: 2100000, guid: 7a517d3d94fa8fb438c447edee775c58, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.170
+    second: {fileID: 2100000, guid: f4f568a13a938b84fb856a854e4857cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.171
+    second: {fileID: 2100000, guid: 4b6908f576dfab548b918ebe93036711, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.172
+    second: {fileID: 2100000, guid: 8185809e1e808a04393fc2806bbb2ea1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.173
+    second: {fileID: 2100000, guid: 7f4240dbcc3d35c4b8f13030de8ca5cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.174
+    second: {fileID: 2100000, guid: ce275358e8004604f83b87bbb239d65d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.175
+    second: {fileID: 2100000, guid: 7bba737f25023f84388346744197eddd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.176
+    second: {fileID: 2100000, guid: 2a0dddfc77f76dc48a83da0e7e01a094, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.177
+    second: {fileID: 2100000, guid: 6c6c38098f4311c42812f9590ea138b0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.178
+    second: {fileID: 2100000, guid: a8a5afc40c1031245b5bd93dbd61ed9a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.179
+    second: {fileID: 2100000, guid: c88f8064964ff7348b422f1d1b5baee0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.180
+    second: {fileID: 2100000, guid: 90309e1731c70d347812b05fbee6751e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.181
+    second: {fileID: 2100000, guid: 5cc089795fcb7e147a71fd184c15ebd1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.182
+    second: {fileID: 2100000, guid: 4aad1cb6782df22409155a58c48f2bcc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.183
+    second: {fileID: 2100000, guid: d650cb4b63ed09b48998ed2cbf06a2ea, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.184
+    second: {fileID: 2100000, guid: 98e5fc44b0786a94d927658bd3550bb8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.185
+    second: {fileID: 2100000, guid: 1aad96fec5f1f134f9c37a16a40f17f4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.186
+    second: {fileID: 2100000, guid: 4d40c17991462fa48aa7b983ec6a9e62, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.187
+    second: {fileID: 2100000, guid: 8ffbf08176d4c0e43a2479cec3b77501, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.188
+    second: {fileID: 2100000, guid: f482fba7599a89c43930c3fb3d705bb0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.189
+    second: {fileID: 2100000, guid: 550ee20bbe181944a88a4b8c788f38a2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.190
+    second: {fileID: 2100000, guid: c6c886543fb3b4445b39b3500755691d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.191
+    second: {fileID: 2100000, guid: 00d3aed2e5161bb4e8b558dda3275864, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.192
+    second: {fileID: 2100000, guid: 1661549bfbeeb024ebb75e5f8f504d5d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.193
+    second: {fileID: 2100000, guid: 4ef8a61d77753724e9d3b3a94a73ecd2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.194
+    second: {fileID: 2100000, guid: 3121e2d1465e90747b3b6fd61fd96ed5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.195
+    second: {fileID: 2100000, guid: 76d882e7acbb569478b3548b21c97492, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.196
+    second: {fileID: 2100000, guid: fde4da280367da6419b20cd606c0531f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.197
+    second: {fileID: 2100000, guid: ca892e96e050e0e43a84139a22e5099c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.198
+    second: {fileID: 2100000, guid: 0bb173f281d63fe4d8f7c6df3857b066, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.199
+    second: {fileID: 2100000, guid: 524aba616d6e4374aac1e961eaea31da, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.200
+    second: {fileID: 2100000, guid: d8a438d6d5d384a4f81cad6baf2aec0f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.201
+    second: {fileID: 2100000, guid: be32db2d10173a84f97b0d49df675792, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.202
+    second: {fileID: 2100000, guid: e5f8bcb0b96aebe4eb9b4ef4d4dcfbaf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.203
+    second: {fileID: 2100000, guid: 9dc8bba602aafc34a9a5c773dc49d209, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.204
+    second: {fileID: 2100000, guid: 136ab638ac6e8964fac7bec4b7e0153e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.205
+    second: {fileID: 2100000, guid: c1e25f2df1fa21543adee0769bf22c25, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.206
+    second: {fileID: 2100000, guid: 6f00872ddbc9604488314a53bbc76fdb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.207
+    second: {fileID: 2100000, guid: be97e09d75635014aad42d8967306263, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.208
+    second: {fileID: 2100000, guid: 0e53a793003c96b449593ad7628e54b0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.209
+    second: {fileID: 2100000, guid: 98dcb8ede9b0d9a419c87fb38066d93c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.210
+    second: {fileID: 2100000, guid: 158de00adf4c89545ae73ed8d90703b9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.211
+    second: {fileID: 2100000, guid: 7e87650d33ae09b4ca75040fd3ec61ea, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.212
+    second: {fileID: 2100000, guid: 16a8d40aa056df44d9cc9d8b90a9def9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.213
+    second: {fileID: 2100000, guid: 4b24986ddcc7fb94b8caaac3c0e9ad9d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.214
+    second: {fileID: 2100000, guid: f6d71d10e59e040448026976fd5369c3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.215
+    second: {fileID: 2100000, guid: 35bee2d5c49a2384b9a29ab1409e4732, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.216
+    second: {fileID: 2100000, guid: 7e7c1c717e4b15340bd6e6fc66aeaf93, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.217
+    second: {fileID: 2100000, guid: d574083344fb63f4686a771ec4a38dec, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.218
+    second: {fileID: 2100000, guid: a6c4dcfba7ce2b34ebc307d44e0e81d8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.219
+    second: {fileID: 2100000, guid: 71ba8985a7a1b1441b2e2dd65d01d186, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.220
+    second: {fileID: 2100000, guid: 25b48edd8a985d1499863cbd0708fd40, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.221
+    second: {fileID: 2100000, guid: 296ea71a57384284381cfae306853977, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.222
+    second: {fileID: 2100000, guid: 5d21428db6d997b439c053126fc00982, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.223
+    second: {fileID: 2100000, guid: 96d6320487690814b90adce36ac87296, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.224
+    second: {fileID: 2100000, guid: 471837e2601f4ff4484f5f43757b97fb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.225
+    second: {fileID: 2100000, guid: 63a732e9e3f8bd54c8b0a02550cbffa1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.226
+    second: {fileID: 2100000, guid: aab8be5e59a56a94986a11dcbd54da16, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.227
+    second: {fileID: 2100000, guid: 589b37e064006e14084f448b40a5d010, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.228
+    second: {fileID: 2100000, guid: e02229d100ee4fb448efb90cf27710b5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.229
+    second: {fileID: 2100000, guid: 4528e224fb2243848a5a8e1812668a7d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.230
+    second: {fileID: 2100000, guid: 8a6960e393834184a975fc1bb6138f8d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.231
+    second: {fileID: 2100000, guid: 70604eb46f02809419bfc1bfcb577155, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.232
+    second: {fileID: 2100000, guid: 9874ed9ab358a334485f41c6b6c91e1c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.233
+    second: {fileID: 2100000, guid: a4dbaaace6c75284686bee48ec206365, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.234
+    second: {fileID: 2100000, guid: e61a793b42b1b1846a3cff6d1c87ff4e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.235
+    second: {fileID: 2100000, guid: 5db445af8acad0e49a52ebb2ec8e94da, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.236
+    second: {fileID: 2100000, guid: 2c646863f6d00ea4fabe0c5d89b25df9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.237
+    second: {fileID: 2100000, guid: 81fa5ff82b6f9fb4fa3224259e9c80af, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.238
+    second: {fileID: 2100000, guid: 6c35a54acc689a340a46ba2aad9d92a5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.239
+    second: {fileID: 2100000, guid: 20a4b26cd5b65994ba8ec64a0ad5068b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.240
+    second: {fileID: 2100000, guid: 9ca24a2abcad4994389b370ad5306517, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.241
+    second: {fileID: 2100000, guid: e5fa363ba408c7a488540508f0c4a6a7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.242
+    second: {fileID: 2100000, guid: 02317f91ee9ee6849b4c891c9136e527, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.243
+    second: {fileID: 2100000, guid: 00aa30d534b73f346add60414b0f4b50, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.244
+    second: {fileID: 2100000, guid: 454f209a6f4748a4b85494649218b4ac, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.245
+    second: {fileID: 2100000, guid: 5185aa2b06505a2408aa9f2abeb219b8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.246
+    second: {fileID: 2100000, guid: 3ffa57b6f4d0a0f45bf23b641eee1b0b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.247
+    second: {fileID: 2100000, guid: 7e20d15219017b748afc3be0987dbf81, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.248
+    second: {fileID: 2100000, guid: e62fab70e9973ce4faf88d572f4b56de, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.249
+    second: {fileID: 2100000, guid: c0dbd359c99bfd94fbbe7e560053909e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.250
+    second: {fileID: 2100000, guid: a2251dc1d3cab5c47be95b1592a1d9f5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.251
+    second: {fileID: 2100000, guid: c99edb6de6f67014a9684e2885b96c79, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.252
+    second: {fileID: 2100000, guid: d9cf59fbade06d14b8e65e4d1ce3391f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.253
+    second: {fileID: 2100000, guid: b5783db09d7f5164ba446d0efa39b1c8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.254
+    second: {fileID: 2100000, guid: 668e0015754c66249bc2c07948377df7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.255
+    second: {fileID: 2100000, guid: 5b343112a39b38c46aa9c8de341a2a7e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.256
+    second: {fileID: 2100000, guid: a9a5632793838714cb71eedce04a6dae, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.257
+    second: {fileID: 2100000, guid: a5c86b6ea3c17da48811bd8ca7fbef02, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.258
+    second: {fileID: 2100000, guid: 5aec31917d11ec644bbb485bfec340ed, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.259
+    second: {fileID: 2100000, guid: f4d12d6730f7a9b4eb9e8b6ecb39b2f6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.260
+    second: {fileID: 2100000, guid: f30fb505e3afbb043be93ebdd8126f81, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.261
+    second: {fileID: 2100000, guid: 5d5e409123d4acf4c938d6e47a30b798, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.262
+    second: {fileID: 2100000, guid: 09a0019e8ccbb664380530b64b6038aa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.263
+    second: {fileID: 2100000, guid: 41d7a65af09d67a41a8e53e89d48191b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.264
+    second: {fileID: 2100000, guid: 9557f3393160fe1478611ee04fcac4c2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.265
+    second: {fileID: 2100000, guid: bc7c20b7ec8c83040a06ee2f5912c22c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.266
+    second: {fileID: 2100000, guid: 181e85caefe0ed243ba978a8ef9edfe0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.267
+    second: {fileID: 2100000, guid: a52820e372a2fb0428cd234e127f2bfc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.268
+    second: {fileID: 2100000, guid: 3d7ab0a784e76604e89b1b5d950dabf6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.269
+    second: {fileID: 2100000, guid: e7d7fd05d0e7de1419fcc71c6d055ff9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.270
+    second: {fileID: 2100000, guid: 2e44dcd5d05ab574a8cd11ae50c8f101, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.271
+    second: {fileID: 2100000, guid: cd86c1469942093418fc450c64581831, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.272
+    second: {fileID: 2100000, guid: 807f44446ba30d045a4b46cc886294f6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.273
+    second: {fileID: 2100000, guid: 2816ac8fe56e27b42821c79baceeaffe, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.274
+    second: {fileID: 2100000, guid: ae9239deb10b7b64fb3bf5d5c8c8227d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.275
+    second: {fileID: 2100000, guid: 6417c23cd7ebd8c4a9d17dd63afb1c4a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.276
+    second: {fileID: 2100000, guid: 6105f248e523cea4bb34eea3c4281819, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.277
+    second: {fileID: 2100000, guid: 262759224a269504e9a88cba3f228ee8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.278
+    second: {fileID: 2100000, guid: 5d4f3d98376a3fd4d8b1a1215e809c54, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.279
+    second: {fileID: 2100000, guid: c9467d8d8d2a82e4d94314beb75acd2f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.280
+    second: {fileID: 2100000, guid: abaeda41689eec248b19af8870387806, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.281
+    second: {fileID: 2100000, guid: 57d8836cdffb1664ca2145ff85545892, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.282
+    second: {fileID: 2100000, guid: 2770263e4dd96f94ab2c50c334d96438, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.283
+    second: {fileID: 2100000, guid: 7daa1c098731857438728422853cd985, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.284
+    second: {fileID: 2100000, guid: cbd85577fd289444981084a7b73ea1aa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.285
+    second: {fileID: 2100000, guid: 55497e2e8a46dc845ac3ea205d19d5ef, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.286
+    second: {fileID: 2100000, guid: 7d13a2868a3e243418e2c5bb6a0d629a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.287
+    second: {fileID: 2100000, guid: 9cb6e2ff7d2a53f4fb931644abd8215b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.288
+    second: {fileID: 2100000, guid: 7220c63950e1f8c45ab933f679e09603, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.289
+    second: {fileID: 2100000, guid: f57b087f2a18e4f41bec5989ee53789b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.290
+    second: {fileID: 2100000, guid: cbeb063d3c55369438c1d7e460300b11, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.291
+    second: {fileID: 2100000, guid: f1278f3895fc41e48a3b6cfc689d1ce7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.292
+    second: {fileID: 2100000, guid: a767540b707f4f1409daa955ff17c8c7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.293
+    second: {fileID: 2100000, guid: d38d945ef67376e4ebd3c64dda2d8e4c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.294
+    second: {fileID: 2100000, guid: 2c26f496b7f0bb94fb60d9970c63d144, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.295
+    second: {fileID: 2100000, guid: 173a9e78f16ce2f43b16d53c265bb060, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.296
+    second: {fileID: 2100000, guid: f3a118bf27bb6574898296652c546168, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.297
+    second: {fileID: 2100000, guid: 3042163f81c186743991e47c34e157e9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.298
+    second: {fileID: 2100000, guid: 7c38c3bd329f44544b8c83509de2a0d0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.299
+    second: {fileID: 2100000, guid: eeadc1d854ceb4849803262c496cfdc4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.300
+    second: {fileID: 2100000, guid: a9bada142ed6a5e44ad3946a221dfcd2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.301
+    second: {fileID: 2100000, guid: 3621cb43e26868f4699ef4ff18af8224, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.302
+    second: {fileID: 2100000, guid: 456d7fbc52693f14989ff5ea82e896eb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.303
+    second: {fileID: 2100000, guid: 269a4491d5272b54396d6645429fb7de, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.304
+    second: {fileID: 2100000, guid: c6807a7911b6f6b4cb8c887820019ec8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.305
+    second: {fileID: 2100000, guid: 72b878726ab070b4596eaa421e230585, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.306
+    second: {fileID: 2100000, guid: d4ee60526a763eb46b23ceb91fd4dc2a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.307
+    second: {fileID: 2100000, guid: c924702ac0b9326469cbafd348e2c737, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.308
+    second: {fileID: 2100000, guid: 98ffd8f26e0c6a6478e1f850cf8f61ba, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.309
+    second: {fileID: 2100000, guid: 66759d3c1e9c7b4478453cd80b3b9f86, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.310
+    second: {fileID: 2100000, guid: e4e187a1484afd941b9ee283cedd8e19, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.311
+    second: {fileID: 2100000, guid: fabd5c5c6baa29d45a128f06d9d09e13, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.312
+    second: {fileID: 2100000, guid: c6bc3bf5221216944a685e349e5365f7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.313
+    second: {fileID: 2100000, guid: 41cd5415ff07ebe42b154bc188b0db30, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.314
+    second: {fileID: 2100000, guid: 19272340709b3d8448874c10413d9dcd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.315
+    second: {fileID: 2100000, guid: 632a476601900d044955d4a173326d30, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.316
+    second: {fileID: 2100000, guid: 5f4213fb9a09e724a82fdec36641c349, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.317
+    second: {fileID: 2100000, guid: 71f2b1de87101ca4d91b93e15bb9cab8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.318
+    second: {fileID: 2100000, guid: 8abfafce849348745a94848ae8e71089, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.319
+    second: {fileID: 2100000, guid: 3edc01f2160ef5a49acc6e5bae67faf4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.320
+    second: {fileID: 2100000, guid: 95b9cd1936c068d48947bb64fae072fe, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.321
+    second: {fileID: 2100000, guid: c892030e4039a50408acf36c3f906286, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.322
+    second: {fileID: 2100000, guid: 80c10d87992ea384a85fbfdad169aafb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.323
+    second: {fileID: 2100000, guid: 05e4f7de48b15894f8ad5ccb04182e1a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.324
+    second: {fileID: 2100000, guid: 0e65b0329b6f4e84aa99c24bd6d392b7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.325
+    second: {fileID: 2100000, guid: b41943771e74a89438582268011d1d17, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.326
+    second: {fileID: 2100000, guid: ff0ad9a42571a6b4bb783c2eadf95647, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.327
+    second: {fileID: 2100000, guid: c30c0142bdb58ae42b8fea7ce2ade4a6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.328
+    second: {fileID: 2100000, guid: 20279bf683315ba449f3b3c058acd91c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.329
+    second: {fileID: 2100000, guid: 16cbdd739141b3c4faefd0ea895ef2d4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.330
+    second: {fileID: 2100000, guid: dc2651fb15980784dbfa8a60ec91f650, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.331
+    second: {fileID: 2100000, guid: 418a03869edfbec4eb78c797cf75d945, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.332
+    second: {fileID: 2100000, guid: 6fc58cd17fd7ab244bc1cf57c0fc0bed, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.333
+    second: {fileID: 2100000, guid: ad0ebce04d6a1f149b06db3f311e706f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.334
+    second: {fileID: 2100000, guid: 989287574c6d89c4aae8799906891c7f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.335
+    second: {fileID: 2100000, guid: 8a5258d960e29594daccfe9c0d975831, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.336
+    second: {fileID: 2100000, guid: e8ce2d65bebf14347818280bbf7685fc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.337
+    second: {fileID: 2100000, guid: 5915d6b5361d59944ae16afb8338b774, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.338
+    second: {fileID: 2100000, guid: 2fc0687a617b6ae4eb24f6ab74b70c09, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.339
+    second: {fileID: 2100000, guid: 858b498f8163b0b4d9d062c7b79781e0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.340
+    second: {fileID: 2100000, guid: 52eb8d04d700b2448bb439292b8f0311, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.341
+    second: {fileID: 2100000, guid: 9f4c7fa209ad0744ab9ae1c43ba68285, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.342
+    second: {fileID: 2100000, guid: f24f77ee699a54146bc498a6afe89633, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.343
+    second: {fileID: 2100000, guid: 20d6bffd0783377428ab9897cce8dccf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.344
+    second: {fileID: 2100000, guid: 618746d9f0f5e0a4cbb8a7ed57e1af68, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.345
+    second: {fileID: 2100000, guid: 153d57f9199a2654380c0f03b7d88835, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.346
+    second: {fileID: 2100000, guid: cf5c05d31420c594489e09ed090de285, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.347
+    second: {fileID: 2100000, guid: 8b262667be4912e4b81cb03550ac58df, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.348
+    second: {fileID: 2100000, guid: ff50aef2ca7fad64899fcbb6d2878f91, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.349
+    second: {fileID: 2100000, guid: 4f17306755d8a8643abe1259f0abb619, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.350
+    second: {fileID: 2100000, guid: 4e7690e60b1536b49aef4a08cb16218e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.351
+    second: {fileID: 2100000, guid: e2f2eef36d9423347bd6def1e9836ba4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.352
+    second: {fileID: 2100000, guid: 285ff05bf369edd46a6a0543b0ef7320, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.353
+    second: {fileID: 2100000, guid: e3abd1e7e8871804d86dc9741b66303b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.354
+    second: {fileID: 2100000, guid: f12b7e5ebf3c795458251d3d0b18a56b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.355
+    second: {fileID: 2100000, guid: 6ff2b0d6728bc8b4c88aa368da1153b8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.356
+    second: {fileID: 2100000, guid: f11966b2a3e48e349b3f2ac4a473f049, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.357
+    second: {fileID: 2100000, guid: d2824bed717155745b25be3bc942239a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.358
+    second: {fileID: 2100000, guid: b9ccb1ec0e1278741aa3f70e3472e3fa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.359
+    second: {fileID: 2100000, guid: 0696891584b1ecc468616667e433f72e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.360
+    second: {fileID: 2100000, guid: 7efd9869756eadd489ad524af56e88ed, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.361
+    second: {fileID: 2100000, guid: 78f1d20c5da9e8d4492f0b6aff7fcb96, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.362
+    second: {fileID: 2100000, guid: fe4ed11641e8ec1469c9316c3e353435, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.363
+    second: {fileID: 2100000, guid: 45ad928b23d6f534385ff68120312636, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.364
+    second: {fileID: 2100000, guid: d8149a398f854234eafef4946d6c43f7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.365
+    second: {fileID: 2100000, guid: 3200a69ef36b9e941acbe61ea7cd2cc1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.366
+    second: {fileID: 2100000, guid: 6d575062814374b4c84dfac2a6b83645, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.367
+    second: {fileID: 2100000, guid: 2a2c17b89e2a1b04992e8ef7239597d1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.368
+    second: {fileID: 2100000, guid: af804f42db1c3ce44a07f2ebcc188793, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.369
+    second: {fileID: 2100000, guid: 5aba55dc2440fa74785f50edefce39e9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.370
+    second: {fileID: 2100000, guid: 6e20850831a90ce4b9065b35264e9f9f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.371
+    second: {fileID: 2100000, guid: 7ce85240b92b28545b6f125426f1ff54, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.372
+    second: {fileID: 2100000, guid: 46cb3b0578c7e5a40a41feeeea36f047, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.373
+    second: {fileID: 2100000, guid: 7bc7ab1e4ac9f304383576c5f7f1f5b2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.374
+    second: {fileID: 2100000, guid: d68c23d1e7930f046a533fb46a19c23c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.375
+    second: {fileID: 2100000, guid: ef71475a638cfbf46af2920fcc325cc2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.376
+    second: {fileID: 2100000, guid: 6857bba895d9bef4ba4fff2bc94f11e1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.377
+    second: {fileID: 2100000, guid: 8ac5096ec638b0141b7348bc934d2a69, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.378
+    second: {fileID: 2100000, guid: 2285722697e74244ba9db91b226441ab, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.379
+    second: {fileID: 2100000, guid: 593c8c5a7b186814ab9f3e7b220d4cfd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.380
+    second: {fileID: 2100000, guid: 42a0e739e6f6b7546bbf62212003d884, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.381
+    second: {fileID: 2100000, guid: 32bbab46a9336634295145db5a2fa083, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.382
+    second: {fileID: 2100000, guid: 0025692ec0331a64eb3dd211bdfd7479, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.383
+    second: {fileID: 2100000, guid: 092825298abbf5b45bb5dbc823498b5c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.384
+    second: {fileID: 2100000, guid: 3df4178c7f6785a46ba71fc018aaf9b6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.385
+    second: {fileID: 2100000, guid: 25b8bf03c95184341aa933a1ca028ffa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.386
+    second: {fileID: 2100000, guid: 88db81c8347722b4198fb0b0f9a53fa5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.387
+    second: {fileID: 2100000, guid: 0d5a57d4996491848ab4cbb08a7442c3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.388
+    second: {fileID: 2100000, guid: 90b97aaaa943d4748960f21204f605ae, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.389
+    second: {fileID: 2100000, guid: ac846ec89c22a3b4bba53c7780da6ab1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.390
+    second: {fileID: 2100000, guid: 4706c846362d1df4799a09e958028e79, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.391
+    second: {fileID: 2100000, guid: 526c24e61c535aa44a74c8e8777262e8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.392
+    second: {fileID: 2100000, guid: 9cb2728b55787574aac389a619d419f7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.393
+    second: {fileID: 2100000, guid: 2ac0ec1525d829e4097b306be5286d68, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.394
+    second: {fileID: 2100000, guid: 0dbfa56483547094cbf6322a62eba93d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.395
+    second: {fileID: 2100000, guid: f18c0b8e2ac5f2b4cbc872a69a4f4f2c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.396
+    second: {fileID: 2100000, guid: 7e43b9d34f575eb45b1e696fa02353fd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.397
+    second: {fileID: 2100000, guid: ff349b181120f394092db9a5c5680a7f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.398
+    second: {fileID: 2100000, guid: 948b2de7721044a4783765154b871205, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon_Material.399
+    second: {fileID: 2100000, guid: 1e2dc8772ca9f6e47a2f055edf6eac87, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
