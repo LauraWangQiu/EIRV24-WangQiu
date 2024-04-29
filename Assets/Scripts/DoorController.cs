@@ -12,6 +12,14 @@ public class DoorController : MonoBehaviour
         audioSource = GetComponent<AudioSource>();
     }
 
+    private void Update()
+    {
+        if (Input.GetKeyDown(KeyCode.P))
+        {
+            ToggleDoor();
+        }
+    }
+
     public void ToggleDoor()
     {
         if (!isDoorOpen)
